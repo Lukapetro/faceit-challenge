@@ -5,7 +5,8 @@ import styled from "styled-components/native";
 
 const Container = styled.View`
   flex: 1;
-  background-color: lightblue;
+  background-color: #E0E0E0;
+  border: 1px solid #BDBDBD
   margin: 10px;
   border-radius: 25px;
   margin: 12px;

@@ -11,7 +11,6 @@ import Spinner from "../components/common/Spinner";
 import { fetchInitialData } from "../features/posts/posts.actions";
 import { incrementPostPerPage } from "../features/posts/posts.slice";
 import isCloseToBottom from "../utils/isCloseToBottom";
-import shuffleArray from "../utils/shuffleArray";
 
 function HomeScreen({
   isFetching,
@@ -24,7 +23,6 @@ function HomeScreen({
 
   const onRefresh = useCallback(() => {
     dispatch(incrementPostPerPage());
-    shuffleArray(currentPost);
   }, []);
   const dispatch = useDispatch();
 

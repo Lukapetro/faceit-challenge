@@ -4,7 +4,7 @@ This project started as a coding challenge for [FACEIT](https://www.faceit.com/)
 
 ## Description
 
-The project was developed with [React-Native](https://reactnative.dev/). It's a simple page with several Instagram-style feeds, where you can navigate through the feeds to get more details or into the pages of the users who posted the feeds.
+The project was developed with [React-Native](https://reactnative.dev/). It's an app with several posts, where you can navigate through the posts to get more details or into the pages of the users who posted it.
 
 ## Getting Started
 
@@ -16,18 +16,25 @@ As requested, the mandatory dependencies are:
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Styled Components](https://styled-components.com/)
 
-### Installing
+### Installation
 
-- How/where to download your program
-- Any modifications needed to be made to files/folders
+- Through my [expo profile ](https://expo.dev/@lukapetro/faceit-challenge-1)
 
-### Executing program
+  - Scan the QR code
+  - Or open this link on your device <exp://exp.host/@lukapetro/faceit-challenge-1>
 
-- How to run the program
-- Step-by-step bullets
+- Cloning this repo and running locally
+
+  - git clone
 
 ```
 code blocks for commands
+```
+
+- install dependencies
+
+```
+yarn install
 ```
 
 ## Authors

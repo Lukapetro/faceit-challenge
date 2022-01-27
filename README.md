@@ -21,7 +21,7 @@ As requested, the mandatory dependencies are:
 - Through my [expo profile ](https://expo.dev/@lukapetro/faceit-challenge-1)
 
   - Scan the QR code
-  - Or open this link on your device <exp://exp.host/@lukapetro/faceit-challenge-1>
+  - Or open this link on your device [exp://exp.host/@lukapetro/faceit-challenge-1](exp://exp.host/@lukapetro/faceit-challenge-1)
 
 - Cloning this repo and running locally
 

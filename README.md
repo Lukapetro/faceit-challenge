@@ -29,13 +29,13 @@ As requested, the mandatory dependencies are:
 git clone https://github.com/Lukapetro/faceit-challenge.git
 ```
 
-    - install dependencies
+   - install dependencies
 
 ```
 yarn install
 ```
 
-    - run it
+   - run it
 
 ```
 yarn start

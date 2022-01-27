@@ -25,16 +25,20 @@ As requested, the mandatory dependencies are:
 
 - Cloning this repo and running locally
 
-  - git clone
-
 ```
-code blocks for commands
+git clone https://github.com/Lukapetro/faceit-challenge.git
 ```
 
-- install dependencies
+    - install dependencies
 
 ```
 yarn install
+```
+
+    - run it
+
+```
+yarn start
 ```
 
 ## Authors
